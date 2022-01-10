@@ -82,7 +82,7 @@ class HeartRates {
         cout << getFirstName() << " " << getLastName() << endl;
         cout << "DOB: " << getBirthMonth() << "/" << getBirthDay() << "/" << getBirthYear() << endl;
         cout << "Age: " << getAge() << endl;
-        cout << "Your max heart rate is: " << getMaxHeartRate() << endl;
+        cout << "Your max heart rate is: " << getMaxHeartRate() << " bpm" << endl;
         cout << "Your target heart rate is 50 - 85 percent of your max heart rate (bpm): " 
         << getTargetHeartRate50() << "-" << getTargetHeartRate85() << endl;
     }
