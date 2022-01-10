@@ -83,8 +83,8 @@ class HeartRates {
         cout << "DOB: " << getBirthMonth() << "/" << getBirthDay() << "/" << getBirthYear() << endl;
         cout << "Age: " << getAge() << endl;
         cout << "Your max heart rate is: " << getMaxHeartRate() << " bpm" << endl;
-        cout << "Your target heart rate is 50 - 85 percent of your max heart rate (bpm): " 
-        << getTargetHeartRate50() << "-" << getTargetHeartRate85() << endl;
+        cout << "Your target heart rate is 50 - 85 percent of your max heart rate: " 
+        << getTargetHeartRate50() << "-" << getTargetHeartRate85() << " bpm" << endl;
     }
     private:
     // attributes
