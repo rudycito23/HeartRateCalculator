@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/rrluc/CLionProjects/HeartRateCalculator/HeartRates.cpp
+HeartRates.h
+/mnt/c/Users/rrluc/CLionProjects/HeartRateCalculator/HeartRates.h
+
+/mnt/c/Users/rrluc/CLionProjects/HeartRateCalculator/HeartRates.h
+iostream
+-
+cmath
+-
+chrono
+-
+
+/mnt/c/Users/rrluc/CLionProjects/HeartRateCalculator/main.cpp
+iostream
+-
+HeartRates.h
+/mnt/c/Users/rrluc/CLionProjects/HeartRateCalculator/HeartRates.h
+
