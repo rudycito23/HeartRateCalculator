@@ -1,4 +1,4 @@
-# HeartRateCalc
+# HeartRateCalculator
 
 A heart rate calculator that receives a user's input.
 Then, the program will print the user's information,
